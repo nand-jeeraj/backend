@@ -8,8 +8,6 @@ openai
 flask_pymongo
 flask_bcrypt
 flask_jwt_extended
-dlib
-face_recognition
 opencv-contrib-python
 numpy==1.26.4
 pytz
