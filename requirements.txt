@@ -11,3 +11,4 @@ flask_jwt_extended
 opencv-contrib-python
 numpy==1.26.4
 pytz
+gunicorn
